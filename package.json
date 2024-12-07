@@ -1,5 +1,5 @@
 {
-  "name": "ajs",
+  "name": "ajs4.1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,8 +15,8 @@
     "preshow:dist": "npm run build",
     "show:dist": "live-server dist"
   },
-  "author": "Rysaev Damir <freepad@ya.ru>",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.23.0",
     "@babel/core": "^7.23.0",
@@ -33,5 +33,13 @@
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriytuk/ajs4.1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yuriytuk/ajs4.1/issues"
+  },
+  "homepage": "https://github.com/yuriytuk/ajs4.1#readme"
 }
